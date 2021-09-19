@@ -1,5 +1,6 @@
 var trigger = [
-	["hi","hey","hello"], 
+	["hi","hey","hello"],
+	
 	["how are you", "how is life", "how are things"],
 	["what are you doing", "what is going on"],
 	["how old are you"],
