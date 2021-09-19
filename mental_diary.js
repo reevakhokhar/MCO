@@ -1,6 +1,7 @@
 const entryForm = document.querySelector(`#entryForm`);
 const entryResultsSection = document.querySelector(`#entryResultsSection`);
 const entryResultItem = document.querySelector(`.entryResultItem`);
+
 const entryResultRow = document.querySelector(`.entryResultRow`);
 const getEntryTitle = document.getElementsByClassName(`entry-text-title`);
 const getEntryText = document.getElementsByClassName(`entry-text-box`);
